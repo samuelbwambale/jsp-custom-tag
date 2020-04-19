@@ -8,7 +8,7 @@
 <%@ page import="java.time.LocalDate" %>
 <%@ page import="java.time.format.DateTimeFormatter" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<%@ taglib prefix='ct' uri='/WEB-INF/my-custome-tlds/currDateTime.tld'%>
+<%@ taglib prefix='ct' uri='/WEB-INF/my-custom-tlds/currDateTime.tld'%>
 <html>
 <head>
   <meta charset="UTF-8">
