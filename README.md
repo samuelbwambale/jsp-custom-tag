@@ -11,9 +11,9 @@ __Name:__ `currentDateTime`
 
 **Example:** 
 
-Using `<ct:currentDateTime color="red" size="14px">` will display `now()` date and time in red color and with size `14px`
+Using `<ct:currentDateTime color="red" size="14px">` will display `now()` date and time in `red` color and with size `14px`
 
-Using `<ct:currentDateTime color="green" size="2rem">` will display `now()` date and time in green color with `2rem`
+Using `<ct:currentDateTime color="green" size="2rem">` will display `now()` date and time in `green` color with `2rem`
 
 
 #### To test the custom tag
