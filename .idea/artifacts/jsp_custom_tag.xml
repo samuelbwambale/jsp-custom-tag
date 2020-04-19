@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="jsp-custom-tag">
+    <output-path>$PROJECT_DIR$/out/artifacts/jsp_custom_tag</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="jsp-custom-tag/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="jsp-custom-tag" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
