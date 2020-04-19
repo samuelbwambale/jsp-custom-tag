@@ -22,7 +22,7 @@ Clone the repo and run the Apache Tomcat server. Launch the browser with the the
 ![current-date-time-custom-tag](./web/WEB-INF/images/jsp-custom-tag-landing-page.png)
 
 #### Dependencies
-- Java SE 8
+- JDK 11
 
 - Apache Tomcat 9.0.33
 
